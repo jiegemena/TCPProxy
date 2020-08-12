@@ -1,0 +1,5 @@
+.vscode
+.vscode/
+*.exe
+__debug_bin
+configdebug.json
