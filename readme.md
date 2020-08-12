@@ -15,3 +15,10 @@
 ```
 
 
+### 安装运行
+```
+md %GOPATH%\src\github.com\jiegemena
+cd %GOPATH%\src\github.com\jiegemena
+git clone ...
+go build -o tcpProxy.1.0.exe
+```
